@@ -8,16 +8,14 @@ This is a lightweight HTTP server designed to handle webhooks from Listmonk and 
    
    ```bash
    npm init -y
-Install Dependencies:
+2. **Install Dependency:**
+   
+   ```bash
+   npm install express axios body-parser
+2. **Run the server:**
+   ```bash
+   node server.js
 
-bash
-Copy code
-npm install express axios body-parser
-Run the Server:
-
-bash
-Copy code
-node server.js
 The server will start running on the specified port.
 
 Configuration
