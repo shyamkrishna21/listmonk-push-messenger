@@ -14,7 +14,7 @@ This is a lightweight HTTP server designed to handle webhooks from Listmonk and 
    npm install express axios body-parser
 2. **Run the server:**
    ```bash
-   node server.js
+   node app.js
 
 The server will start running on the specified port.
 
@@ -25,3 +25,4 @@ FCM API Key:
 
 Replace 'YOUR_FCM_API_KEY' with your Firebase Cloud Messaging API key.
 
+http://localhost:3000/webhook
