@@ -1,6 +1,6 @@
 # Listmonk Push Messenger
 
-This is a lightweight HTTP server designed to handle webhooks from Listmonk and forward the data to different messaging services. In this example, we forward the data to Firebase Cloud Messaging (FCM).
+This is a lightweight HTTP server designed to handle webhooks from Listmonk and forward the data to different messaging services. In this example, we forward the data to Firebase Cloud Messaging (FCM)
 
 ## Setup
 
